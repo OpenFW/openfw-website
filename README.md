@@ -1,4 +1,13 @@
-openfw-website
-==============
+# Open Fort Wayne Website
 
-OpenFW website at http://openfw.in
+Promoting governmental transparency through open data and civic hacking in Fort Wayne, IN.
+
+### Installation
+
+Make sure you are running ruby 2.0.0 and run:
+
+    bundle
+
+Develop locally by running the middleman server with:
+
+    middleman

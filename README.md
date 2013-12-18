@@ -1,6 +1,6 @@
 # Open Fort Wayne Website
 
-Promoting governmental transparency through open data and civic hacking in Fort Wayne, IN.
+Promoting transparency through open data and civic hacking in Fort Wayne, IN.
 
 ### Installation
 

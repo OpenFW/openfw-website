@@ -1,3 +1,5 @@
 //= require ./jquery
 //= require ./foundation.min
-//= require_tree .
+//= require ./foundation/foundation.topbar
+
+$(document).foundation();

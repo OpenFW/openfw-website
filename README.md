@@ -11,3 +11,5 @@ Make sure you are running ruby 2.0.0 and run:
 Develop locally by running the middleman server with:
 
     middleman
+
+[View license](https://raw.github.com/OpenFW/openfw-website/master/LICENSE)
